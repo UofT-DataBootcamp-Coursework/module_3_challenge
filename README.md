@@ -30,7 +30,7 @@ The analysis of the election show that:
 
 - The candidates were:
     - Charles Casper "The Not-So-Friendly-Ghost" Stockham
-    - Diana "No Princess" DeGette
+    - "No Princess" Diana DeGette
     - Raymon Anthony "Fat Tony" Doane
  - The candidate results were:
     - Charles Casper "The Not-So-Friendly-Ghost" Stockham received 23.0% of the vote and 85,213 number of votes
